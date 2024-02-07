@@ -1,10 +1,7 @@
 const { Client, Collection, GuildMember, Guild, MessageEmbed, TextChannel } = require('discord.js');
 const Webhooks = {}
 const { richEmbed } = require("./embed");
-/*
-* Sunucu içerisinde bulunan prototypelar
-* İşe yarayanlar kıpss 
-*/
+
 Guild.prototype.kanalıBul = function(content) {
     let kanal = this.channels.cache.find(k => k.name === content) || this.channels.cache.find(k => k.id === content) || this.client.channels.cache.find(e => e.id === content) || this.client.channels.cache.find(e => e.name === content)
     if(!kanal) return client.logger.log(`${content} kanalını ${this.name} sunucusun da aradım fakat bulamadım.`,"error");

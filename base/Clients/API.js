@@ -7,7 +7,6 @@ const cors = require("cors")
 const moment = require('moment');
 require('moment-duration-format');
 require('moment-timezone');
-const { server } = require('../../base/Clients/Global.Server.Clients');
 const ms = require('ms')
 const GUILD_SETTINGS = require('../../database/Schemas/Global.Guild.Settings')
 const GUARD_SETTINGS = require('../../database/Schemas/Guards/Global.Guard.Settings')
@@ -1678,7 +1677,13 @@ Web panel üzerinden ${tarihsel(Date.now())} tarihinde ${req.body.value ? "ismin
         return res.redirect(url.format({ pathname: "/error", query: { statuscode, message }}));
       };
       
-
+    const options = {
+ hostname: 'localhost:3000',
+ port: 443,
+ path: '/',
+ method: 'GET',
+rejectUnauthorized: false
+}
         
         this.server = https.createServer({
             key: fs.readFileSync('./private.key'),

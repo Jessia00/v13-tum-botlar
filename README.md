@@ -1,7 +1,11 @@
-# ANORA ARKADAŞIM İLE V14-e GEÇTİĞİM ZAMANDAN BERİ HEP GÜNCELLEDİĞİM BOTLARDIR HERHANGİ BİR HATASI BULUNMUYOR.
+# V14-e geçtiğimden beri hep güncelleyip kullandığım v13 botlardır v13 sıktı artık işime gelirse v14-de paylaşırım kıps)
+
 DOLDURULACAK YER ```base/Ayarlar/server.json```
 
 DC: ```cartelfx```
+
+![image](https://cdn.discordapp.com/attachments/1118782795385426050/1206178140217409536/Screenshot_2024-02-11-14-00-57-264_com.microsoft.rdc.androidx.png?ex=65db0fee&is=65c89aee&hm=8faf20f06a57ae059fd0b68df0899729c382d334f203cd53131a1be118be2e9b&) BURADAKİ NE DİYE BİLİRSİNİZ, BU BOT SAHİPLERİ KISMIDIR GÖRÜNEN İSME UYGUN DÜZENLEYİN.
+
 
 ![image](https://cdn.discordapp.com/attachments/1035142680453316669/1204786013814259722/Screenshot_2024-02-07-17-43-29-432_com.microsoft.rdc.androidx.png?ex=65d5ff69&is=65c38a69&hm=5714a38c1f1e27af3f87e8eb860be52ed7332d13c4ac584f1cd894ad508ae954&)
 ![image](https://cdn.discordapp.com/attachments/1035142680453316669/1204786014070120518/Screenshot_2024-02-07-17-43-10-091_com.microsoft.rdc.androidx.png?ex=65d5ff69&is=65c38a69&hm=7ac801cc5dec49b314599d287013424ad2c24c2e39eb7cf8e37862039acab0e2&)

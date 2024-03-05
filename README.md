@@ -10,3 +10,9 @@ DC: ```cartelfx```
 ![image](https://media.discordapp.net/attachments/1035142680453316669/1205562936559411200/image.png?ex=65f4827a&is=65e20d7a&hm=4d349f5753609374ea47a2c14587780290439304231b637cdd17287028a50cec&)
 ![image](https://media.discordapp.net/attachments/1035142680453316669/1205562818770767922/image.png?ex=65f4825e&is=65e20d5e&hm=e8d4b4df473d1ef9a164ebabd6baddba29c727bf319e3f50d1c359766288bc18&)
 ![image](https://cdn.discordapp.com/attachments/1035142680453316669/1204786086606278656/Screenshot_2024-02-07-17-42-16-184_com.microsoft.rdc.androidx.png?ex=65d5ff7a&is=65c38a7a&hm=d64a075e02003d52c135ccf73297f76abd92dee31a8b29fffc46cefb3e614378&)
+
+# GENERAL
+
+![img](https://media.discordapp.net/attachments/1035142680453316669/1205558205925560360/image.png?ex=65f47e12&is=65e20912&hm=7edeffe0effc952be8ab7077577144cd2fb8254a53c362a4a15eeac6938af069&)
+
+![img](https://media.discordapp.net/attachments/1035142680453316669/1205562485327798272/image.png?ex=65f4820e&is=65e20d0e&hm=ae5848d15eb3a373eefbbc4293f0f9d9768e8415f2e606c25a53b7b6b5ad995c&)

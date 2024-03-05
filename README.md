@@ -26,4 +26,4 @@ DOLDURULACAK YER ```base/Ayarlar/server.json```
 ![img](https://media.discordapp.net/attachments/1035142680453316669/1204786013814259722/Screenshot_2024-02-07-17-43-29-432_com.microsoft.rdc.androidx.png?ex=65f1aee9&is=65df39e9&hm=4486afc0d48c3984764155c11bf42db57a89daf3ef49c35393df10969bc6a4ae&)
 
 
-# NOT: resimlerde gördüğünüz statların kurulumu basittir sadece **base/Additions/Staff/Sources/Global.Staff.Settings** dosyasında bulunanları doldurmanız gerekmektedir, kişi yetkili olarak başlatıldıkdan sonra puan sistemi aktif olacaktır.
+# NOT: resimlerde gördüğünüz statların kurulumu basittir sadece ```base/Additions/Staff/Sources/Global.Staff.Settings``` dosyasında bulunanları doldurmanız gerekmektedir, kişi yetkili olarak başlatıldıkdan sonra puan sistemi aktif olacaktır.

@@ -1,8 +1,6 @@
-# V14-e geçtiğimden beri hep güncelleyip kullandığım v13 botlardır v13 sıktı artık işime gelirse v14-de paylaşırım.
+# discord.js v13 sürümü ile kullanabileceğiniz sade kullanımlı botlardır ek yarrak yurrak özellikler bulunmuyor örnek çekiliş sistemi ve s. sevmeyen kullanmasın aw dcden yazıp darlamayın.
 
 DOLDURULACAK YER ```base/Ayarlar/server.json```
-
-DC: ```cartelfx```
 
 ![image](https://media.discordapp.net/attachments/1035142680453316669/1206257047570485358/Screenshot_2024-02-11-14-00-57-264_com.microsoft.rdc.androidx.png?ex=65f708eb&is=65e493eb&hm=cfb1127a2cb8834c0d4a60b01510c0dce30cd04573dfffb96eeaac6112687071&) BURADAKİ NE DİYE BİLİRSİNİZ, BU BOT SAHİPLERİ KISMIDIR GÖRÜNEN İSME UYGUN DÜZENLEYİN.
 
@@ -22,3 +20,5 @@ DC: ```cartelfx```
 ![img](https://media.discordapp.net/attachments/1035142680453316669/1205555285150793809/image.png?ex=65f47b5a&is=65e2065a&hm=08d41bf2c9e24198434771bf06266b4bb8a7f2a0c1b95143f87c42c016682f37&)
 
 ![img](https://media.discordapp.net/attachments/1035142680453316669/1205546515536289853/image.png?ex=65f4732f&is=65e1fe2f&hm=2135afaabb345934b01fbf206f6e67a31d38dd82401e4939e6c86911d88516db&)
+
+![img](https://media.discordapp.net/attachments/1035142680453316669/1204786013814259722/Screenshot_2024-02-07-17-43-29-432_com.microsoft.rdc.androidx.png?ex=65f1aee9&is=65df39e9&hm=4486afc0d48c3984764155c11bf42db57a89daf3ef49c35393df10969bc6a4ae&)

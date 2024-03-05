@@ -1,4 +1,4 @@
-# V14-e geçtiğimden beri hep güncelleyip kullandığım v13 botlardır v13 sıktı artık işime gelirse v14-de paylaşırım kıps)
+# V14-e geçtiğimden beri hep güncelleyip kullandığım v13 botlardır v13 sıktı artık işime gelirse v14-de paylaşırım.
 
 DOLDURULACAK YER ```base/Ayarlar/server.json```
 
@@ -20,3 +20,5 @@ DC: ```cartelfx```
 ![img](https://media.discordapp.net/attachments/1035142680453316669/1205556228592373812/image.png?ex=65f47c3b&is=65e2073b&hm=7a75a6cd61443c6113d014dd0473fcd27c404fce53e62e23eabe647e3f808061&)
 
 ![img](https://media.discordapp.net/attachments/1035142680453316669/1205555285150793809/image.png?ex=65f47b5a&is=65e2065a&hm=08d41bf2c9e24198434771bf06266b4bb8a7f2a0c1b95143f87c42c016682f37&)
+
+![img](https://media.discordapp.net/attachments/1035142680453316669/1205546515536289853/image.png?ex=65f4732f&is=65e1fe2f&hm=2135afaabb345934b01fbf206f6e67a31d38dd82401e4939e6c86911d88516db&)
